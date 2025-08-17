@@ -27,7 +27,7 @@
 
 ---
 
-## 🚀 Projeto Atual — [Notascan](https://github.com/notascan) — [🌐 Site Oficial](https://notascan.com.br)
+## 🚀 Projeto pessoal Atual — [Notascan](https://github.com/notascan) — [🌐 Site Oficial](https://notascan.com.br)
 *"Seu olhar digital na nota fiscal"*  
 Sistema para proteger consumidores contra preços divergentes em supermercados, usando captura de imagem, IA generativa e integração com mercados parceiros.
 
