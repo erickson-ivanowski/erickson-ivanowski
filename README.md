@@ -2,7 +2,7 @@
 
 **SRE @ Banco Bari**  
 💻 14+ anos em desenvolvimento de software  
-📐 Arquitetura de Software | DDD | Design Patterns  
+📐 Arquitetura de Software | DDD | Design Patterns | SOLID | YAGNI | KISS
 
 ---
 
