@@ -26,11 +26,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
-
-## 🚀 Projeto pessoal Atual — [Notascan](https://github.com/notascan) — [🌐 Site Oficial](https://notascan.com.br)
-*"Seu olhar digital na nota fiscal"*  
-Sistema para proteger consumidores contra preços divergentes em supermercados, usando captura de imagem, IA generativa e integração com mercados parceiros.
-
+#### 🚀 Projeto pessoal Atual — [Garantify](https://github.com/garantify) — [🌐 Site Oficial](https://garantify.com.br)
 ---
 
 ## 🌐 Onde me encontrar
