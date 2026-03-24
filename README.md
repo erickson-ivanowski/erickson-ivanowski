@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Erickson Ivanowski
 
-**SRE @ Banco Bari**  
+**Desenvolvedor Backend @ Banco Bari**  
 💻 14+ anos em desenvolvimento de software  
 📐 Arquitetura de Software | DDD | Design Patterns | SOLID | YAGNI | KISS
 
