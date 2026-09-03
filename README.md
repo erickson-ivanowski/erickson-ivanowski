@@ -26,7 +26,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
-#### 🚀 Projeto pessoais:
+#### 🚀 Projetos pessoais:
 - [Garantify](https://github.com/garantify) — [🌐 Site Oficial](https://garantify.com.br)
 - [Anotadinho](https://anotadinho.app)
 ---
